@@ -1,0 +1,132 @@
+C:\Users\ADMIN\Downloads\Lines_Demo\obj\Debug\Lines_Demo.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Downloads\Lines_Demo\obj\Debug\Lines_Demo.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\Downloads\Lines_Demo\obj\Debug\Lines.FrmAbout.resources
+C:\Users\ADMIN\Downloads\Lines_Demo\obj\Debug\Lines.HighScoresForm.resources
+C:\Users\ADMIN\Downloads\Lines_Demo\obj\Debug\Lines.MainForm.resources
+C:\Users\ADMIN\Downloads\Lines_Demo\obj\Debug\Lines_Demo.Properties.Resources.resources
+C:\Users\ADMIN\Downloads\Lines_Demo\obj\Debug\Lines.FrmInputName.resources
+C:\Users\ADMIN\Downloads\Lines_Demo\obj\Debug\Lines_Demo.csproj.GenerateResource.cache
+C:\Users\ADMIN\Downloads\Lines_Demo\obj\Debug\Lines_Demo.exe.licenses
+C:\Users\ADMIN\Desktop\Lines_Demo(1)\obj\Debug\Lines_Demo.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\Lines_Demo(1)\obj\Debug\Lines_Demo.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\Desktop\Lines_Demo(1)\obj\Debug\Lines.FrmAbout.resources
+C:\Users\ADMIN\Desktop\Lines_Demo(1)\obj\Debug\Lines.HighScoresForm.resources
+C:\Users\ADMIN\Desktop\Lines_Demo(1)\obj\Debug\Lines.MainForm.resources
+C:\Users\ADMIN\Desktop\Lines_Demo(1)\obj\Debug\Lines_Demo.Properties.Resources.resources
+C:\Users\ADMIN\Desktop\Lines_Demo(1)\obj\Debug\Lines.FrmInputName.resources
+C:\Users\ADMIN\Desktop\Lines_Demo(1)\obj\Debug\Lines_Demo.csproj.GenerateResource.cache
+C:\Users\ADMIN\Desktop\Lines_Demo(1)\obj\Debug\Lines_Demo.exe.licenses
+C:\Users\ADMIN\Desktop\Lines_Demo(1)\bin\Debug\Lines_Demo.exe.config
+C:\Users\ADMIN\Desktop\Lines_Demo(1)\bin\Debug\Lines_Demo.exe
+C:\Users\ADMIN\Desktop\Lines_Demo(1)\bin\Debug\Lines_Demo.pdb
+C:\Users\ADMIN\Desktop\Lines_Demo(1)\bin\Debug\DevExpress.BonusSkins.v23.1.dll
+C:\Users\ADMIN\Desktop\Lines_Demo(1)\bin\Debug\DevExpress.Data.Desktop.v23.1.dll
+C:\Users\ADMIN\Desktop\Lines_Demo(1)\bin\Debug\DevExpress.Data.v23.1.dll
+C:\Users\ADMIN\Desktop\Lines_Demo(1)\bin\Debug\DevExpress.Drawing.v23.1.dll
+C:\Users\ADMIN\Desktop\Lines_Demo(1)\bin\Debug\DevExpress.Printing.v23.1.Core.dll
+C:\Users\ADMIN\Desktop\Lines_Demo(1)\bin\Debug\DevExpress.Utils.v23.1.dll
+C:\Users\ADMIN\Desktop\Lines_Demo(1)\bin\Debug\DevExpress.XtraBars.v23.1.dll
+C:\Users\ADMIN\Desktop\Lines_Demo(1)\bin\Debug\DevExpress.XtraEditors.v23.1.dll
+C:\Users\ADMIN\Desktop\Lines_Demo(1)\bin\Debug\DevExpress.Pdf.v23.1.Core.dll
+C:\Users\ADMIN\Desktop\Lines_Demo(1)\bin\Debug\DevExpress.Pdf.v23.1.Drawing.dll
+C:\Users\ADMIN\Desktop\Lines_Demo(1)\bin\Debug\DevExpress.Sparkline.v23.1.Core.dll
+C:\Users\ADMIN\Desktop\Lines_Demo(1)\bin\Debug\DevExpress.Drawing.v23.1.xml
+C:\Users\ADMIN\Desktop\Lines_Demo(1)\bin\Debug\DevExpress.Printing.v23.1.Core.xml
+C:\Users\ADMIN\Desktop\Lines_Demo(1)\bin\Debug\DevExpress.Data.v23.1.xml
+C:\Users\ADMIN\Desktop\Lines_Demo(1)\bin\Debug\DevExpress.Data.Desktop.v23.1.xml
+C:\Users\ADMIN\Desktop\Lines_Demo(1)\bin\Debug\DevExpress.Utils.v23.1.xml
+C:\Users\ADMIN\Desktop\Lines_Demo(1)\bin\Debug\DevExpress.XtraBars.v23.1.xml
+C:\Users\ADMIN\Desktop\Lines_Demo(1)\bin\Debug\DevExpress.XtraEditors.v23.1.xml
+C:\Users\ADMIN\Desktop\Lines_Demo(1)\bin\Debug\DevExpress.Pdf.v23.1.Core.xml
+C:\Users\ADMIN\Desktop\Lines_Demo(1)\bin\Debug\DevExpress.Pdf.v23.1.Drawing.xml
+C:\Users\ADMIN\Desktop\Lines_Demo(1)\bin\Debug\DevExpress.Sparkline.v23.1.Core.xml
+C:\Users\ADMIN\Desktop\Lines_Demo(1)\obj\Debug\Lines_Demo.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\Lines_Demo(1)\obj\Debug\Lines_Demo.csproj.CopyComplete
+C:\Users\ADMIN\Desktop\Lines_Demo(1)\obj\Debug\Lines_Demo.exe
+C:\Users\ADMIN\Desktop\Lines_Demo(1)\obj\Debug\Lines_Demo.pdb
+C:\Users\ADMIN\Desktop\less\Lines_Demo(1)\bin\Debug\Lines_Demo.exe.config
+C:\Users\ADMIN\Desktop\less\Lines_Demo(1)\bin\Debug\Lines_Demo.exe
+C:\Users\ADMIN\Desktop\less\Lines_Demo(1)\bin\Debug\Lines_Demo.pdb
+C:\Users\ADMIN\Desktop\less\Lines_Demo(1)\bin\Debug\DevExpress.BonusSkins.v23.1.dll
+C:\Users\ADMIN\Desktop\less\Lines_Demo(1)\bin\Debug\DevExpress.Data.Desktop.v23.1.dll
+C:\Users\ADMIN\Desktop\less\Lines_Demo(1)\bin\Debug\DevExpress.Data.v23.1.dll
+C:\Users\ADMIN\Desktop\less\Lines_Demo(1)\bin\Debug\DevExpress.Drawing.v23.1.dll
+C:\Users\ADMIN\Desktop\less\Lines_Demo(1)\bin\Debug\DevExpress.Printing.v23.1.Core.dll
+C:\Users\ADMIN\Desktop\less\Lines_Demo(1)\bin\Debug\DevExpress.Utils.v23.1.dll
+C:\Users\ADMIN\Desktop\less\Lines_Demo(1)\bin\Debug\DevExpress.XtraBars.v23.1.dll
+C:\Users\ADMIN\Desktop\less\Lines_Demo(1)\bin\Debug\DevExpress.XtraEditors.v23.1.dll
+C:\Users\ADMIN\Desktop\less\Lines_Demo(1)\bin\Debug\DevExpress.Pdf.v23.1.Core.dll
+C:\Users\ADMIN\Desktop\less\Lines_Demo(1)\bin\Debug\DevExpress.Pdf.v23.1.Drawing.dll
+C:\Users\ADMIN\Desktop\less\Lines_Demo(1)\bin\Debug\DevExpress.Sparkline.v23.1.Core.dll
+C:\Users\ADMIN\Desktop\less\Lines_Demo(1)\bin\Debug\DevExpress.Drawing.v23.1.xml
+C:\Users\ADMIN\Desktop\less\Lines_Demo(1)\bin\Debug\DevExpress.Printing.v23.1.Core.xml
+C:\Users\ADMIN\Desktop\less\Lines_Demo(1)\bin\Debug\DevExpress.Data.v23.1.xml
+C:\Users\ADMIN\Desktop\less\Lines_Demo(1)\bin\Debug\DevExpress.Data.Desktop.v23.1.xml
+C:\Users\ADMIN\Desktop\less\Lines_Demo(1)\bin\Debug\DevExpress.Utils.v23.1.xml
+C:\Users\ADMIN\Desktop\less\Lines_Demo(1)\bin\Debug\DevExpress.XtraBars.v23.1.xml
+C:\Users\ADMIN\Desktop\less\Lines_Demo(1)\bin\Debug\DevExpress.XtraEditors.v23.1.xml
+C:\Users\ADMIN\Desktop\less\Lines_Demo(1)\bin\Debug\DevExpress.Pdf.v23.1.Core.xml
+C:\Users\ADMIN\Desktop\less\Lines_Demo(1)\bin\Debug\DevExpress.Pdf.v23.1.Drawing.xml
+C:\Users\ADMIN\Desktop\less\Lines_Demo(1)\bin\Debug\DevExpress.Sparkline.v23.1.Core.xml
+C:\Users\ADMIN\Desktop\less\Lines_Demo(1)\obj\Debug\Lines_Demo.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\less\Lines_Demo(1)\obj\Debug\Lines_Demo.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\Desktop\less\Lines_Demo(1)\obj\Debug\Lines.FrmAbout.resources
+C:\Users\ADMIN\Desktop\less\Lines_Demo(1)\obj\Debug\Lines.HighScoresForm.resources
+C:\Users\ADMIN\Desktop\less\Lines_Demo(1)\obj\Debug\Lines.MainForm.resources
+C:\Users\ADMIN\Desktop\less\Lines_Demo(1)\obj\Debug\Lines_Demo.Properties.Resources.resources
+C:\Users\ADMIN\Desktop\less\Lines_Demo(1)\obj\Debug\Lines.FrmInputName.resources
+C:\Users\ADMIN\Desktop\less\Lines_Demo(1)\obj\Debug\Lines_Demo.csproj.GenerateResource.cache
+C:\Users\ADMIN\Desktop\less\Lines_Demo(1)\obj\Debug\Lines_Demo.exe.licenses
+C:\Users\ADMIN\Desktop\less\Lines_Demo(1)\obj\Debug\Lines_Demo.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\less\Lines_Demo(1)\obj\Debug\Lines_Demo.csproj.CopyComplete
+C:\Users\ADMIN\Desktop\less\Lines_Demo(1)\obj\Debug\Lines_Demo.exe
+C:\Users\ADMIN\Desktop\less\Lines_Demo(1)\obj\Debug\Lines_Demo.pdb
+C:\Users\ADMIN\Desktop\Lines_Demo(2) - Copy\bin\Debug\Lines_Demo.exe.config
+C:\Users\ADMIN\Desktop\Lines_Demo(2) - Copy\bin\Debug\Lines_Demo.exe
+C:\Users\ADMIN\Desktop\Lines_Demo(2) - Copy\bin\Debug\Lines_Demo.pdb
+C:\Users\ADMIN\Desktop\Lines_Demo(2) - Copy\bin\Debug\DevExpress.BonusSkins.v23.1.dll
+C:\Users\ADMIN\Desktop\Lines_Demo(2) - Copy\bin\Debug\DevExpress.Data.Desktop.v23.1.dll
+C:\Users\ADMIN\Desktop\Lines_Demo(2) - Copy\bin\Debug\DevExpress.Data.v23.1.dll
+C:\Users\ADMIN\Desktop\Lines_Demo(2) - Copy\bin\Debug\DevExpress.Drawing.v23.1.dll
+C:\Users\ADMIN\Desktop\Lines_Demo(2) - Copy\bin\Debug\DevExpress.Printing.v23.1.Core.dll
+C:\Users\ADMIN\Desktop\Lines_Demo(2) - Copy\bin\Debug\DevExpress.Utils.v23.1.dll
+C:\Users\ADMIN\Desktop\Lines_Demo(2) - Copy\bin\Debug\DevExpress.XtraBars.v23.1.dll
+C:\Users\ADMIN\Desktop\Lines_Demo(2) - Copy\bin\Debug\DevExpress.XtraEditors.v23.1.dll
+C:\Users\ADMIN\Desktop\Lines_Demo(2) - Copy\bin\Debug\DevExpress.Pdf.v23.1.Core.dll
+C:\Users\ADMIN\Desktop\Lines_Demo(2) - Copy\bin\Debug\DevExpress.Pdf.v23.1.Drawing.dll
+C:\Users\ADMIN\Desktop\Lines_Demo(2) - Copy\bin\Debug\DevExpress.Sparkline.v23.1.Core.dll
+C:\Users\ADMIN\Desktop\Lines_Demo(2) - Copy\bin\Debug\DevExpress.Drawing.v23.1.xml
+C:\Users\ADMIN\Desktop\Lines_Demo(2) - Copy\bin\Debug\DevExpress.Printing.v23.1.Core.xml
+C:\Users\ADMIN\Desktop\Lines_Demo(2) - Copy\bin\Debug\DevExpress.Data.v23.1.xml
+C:\Users\ADMIN\Desktop\Lines_Demo(2) - Copy\bin\Debug\DevExpress.Data.Desktop.v23.1.xml
+C:\Users\ADMIN\Desktop\Lines_Demo(2) - Copy\bin\Debug\DevExpress.Utils.v23.1.xml
+C:\Users\ADMIN\Desktop\Lines_Demo(2) - Copy\bin\Debug\DevExpress.XtraBars.v23.1.xml
+C:\Users\ADMIN\Desktop\Lines_Demo(2) - Copy\bin\Debug\DevExpress.XtraEditors.v23.1.xml
+C:\Users\ADMIN\Desktop\Lines_Demo(2) - Copy\bin\Debug\DevExpress.Pdf.v23.1.Core.xml
+C:\Users\ADMIN\Desktop\Lines_Demo(2) - Copy\bin\Debug\DevExpress.Pdf.v23.1.Drawing.xml
+C:\Users\ADMIN\Desktop\Lines_Demo(2) - Copy\bin\Debug\DevExpress.Sparkline.v23.1.Core.xml
+C:\Users\ADMIN\Desktop\Lines_Demo(2) - Copy\obj\Debug\Lines_Demo.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\Lines_Demo(2) - Copy\obj\Debug\Lines_Demo.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\Desktop\Lines_Demo(2) - Copy\obj\Debug\Lines.FrmAbout.resources
+C:\Users\ADMIN\Desktop\Lines_Demo(2) - Copy\obj\Debug\Lines.HighScoresForm.resources
+C:\Users\ADMIN\Desktop\Lines_Demo(2) - Copy\obj\Debug\Lines.MainForm.resources
+C:\Users\ADMIN\Desktop\Lines_Demo(2) - Copy\obj\Debug\Lines_Demo.Properties.Resources.resources
+C:\Users\ADMIN\Desktop\Lines_Demo(2) - Copy\obj\Debug\Lines.FrmInputName.resources
+C:\Users\ADMIN\Desktop\Lines_Demo(2) - Copy\obj\Debug\Lines_Demo.csproj.GenerateResource.cache
+C:\Users\ADMIN\Desktop\Lines_Demo(2) - Copy\obj\Debug\Lines_Demo.exe.licenses
+C:\Users\ADMIN\Desktop\Lines_Demo(2) - Copy\obj\Debug\Lines_Demo.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\Lines_Demo(2) - Copy\obj\Debug\Lines_Demo.csproj.CopyComplete
+C:\Users\ADMIN\Desktop\Lines_Demo(2) - Copy\obj\Debug\Lines_Demo.exe
+C:\Users\ADMIN\Desktop\Lines_Demo(2) - Copy\obj\Debug\Lines_Demo.pdb
+C:\Users\ADMIN\source\repos\Lines_Demo(2) - Copy\obj\Debug\Lines_Demo.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\Lines_Demo(2) - Copy\obj\Debug\Lines_Demo.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\source\repos\Lines_Demo(2) - Copy\obj\Debug\Lines.FrmAbout.resources
+C:\Users\ADMIN\source\repos\Lines_Demo(2) - Copy\obj\Debug\Lines.HighScoresForm.resources
+C:\Users\ADMIN\source\repos\Lines_Demo(2) - Copy\obj\Debug\Lines.MainForm.resources
+C:\Users\ADMIN\source\repos\Lines_Demo(2) - Copy\obj\Debug\Lines_Demo.Properties.Resources.resources
+C:\Users\ADMIN\source\repos\Lines_Demo(2) - Copy\obj\Debug\Lines.FrmInputName.resources
+C:\Users\ADMIN\source\repos\Lines_Demo(2) - Copy\obj\Debug\Lines_Demo.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\repos\Lines_Demo(2) - Copy\obj\Debug\Lines_Demo.exe.licenses
+C:\Users\ADMIN\source\repos\Lines_Demo(2) - Copy\obj\Debug\Lines_Demo.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\Lines_Demo(2) - Copy\obj\Debug\Lines_Demo.exe
+C:\Users\ADMIN\source\repos\Lines_Demo(2) - Copy\obj\Debug\Lines_Demo.pdb
